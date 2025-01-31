@@ -1,0 +1,53 @@
+img {
+
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    margin-top: 10px;
+    display: block;
+
+
+}
+
+
+h1 {
+
+  font-size: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+
+
+}
+
+
+
+
+p {
+
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+
+}
+
+div {
+
+background-color: aliceblue;
+border-radius:  50px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+text-align: center;
+width: 500px;
+font-size: 50px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(60, 60, 255);
+
+
+
+}
